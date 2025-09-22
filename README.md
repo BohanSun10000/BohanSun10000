@@ -1,8 +1,8 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=deborahuka&label=Profile%20views&color=0e75b6&style=flat" alt="deborahuka" />
+  <img src="https://komarev.com/ghpvc/?username=Theodore-labs&label=Profile%20views&color=0e75b6&style=flat" alt="Theodore-labs" />
 </p>
 
-<h1 align="center">Hi 👋, I'm deborahuka</h1>
+<h1 align="center">Hi 👋, I'm Theodore</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="center">
@@ -36,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deborahuka&show_icons=true&theme=radical" alt="deborahuka's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=deborahuka&theme=radical&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Theodore-labs&show_icons=true&theme=radical" alt="Theodore-labs's GitHub stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Theodore-labs&theme=radical&hide_border=true" width="400"/>
 </p>
 
 ---
@@ -46,10 +46,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deborahuka&repo=DevBoard&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Theodore-labs&repo=TaskFlow&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deborahuka&repo=DevQuotes&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Theodore-labs&repo=TaskNest&theme=buefy" />
 </a>
 
 ---
@@ -57,7 +57,7 @@
 ### ☕ Let's Connect
 
 <p align="left">
-  <a href="https://github.com/deborahuka" target="_blank">
+  <a href="https://github.com/Theodore-labs" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
