@@ -6,7 +6,7 @@
 <h3 align="center">A Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=520&lines=Spatial+Computing+Developer;VisionOS+%7C+Unity+%7C+WebXR;Code.+Design.+Build+in+3D.;Let's+build+in+space+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=560&lines=Spatial+Computing+Developer;VisionOS+%7C+ARKit+%7C+ARCore+%7C+WebAR;Code.+Design.+Build+in+3D.;Let's+build+in+space+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
