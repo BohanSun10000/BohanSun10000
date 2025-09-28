@@ -47,14 +47,6 @@
   <img src="https://img.shields.io/badge/-Pinata-000000?style=for-the-badge&logo=pinata&logoColor=yellow" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsabelleZhou1113&show_icons=true&theme=radical" alt="Theodore-labs's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IsabelleZhou1113&theme=radical&hide_border=true" width="400"/>
-</p>
 
 ---
 
