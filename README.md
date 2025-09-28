@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=IsabelleZhou1113&label=Profile%20views&color=0e75b6&style=flat" alt="IsabelleZhou1113" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Isabelle</h1>
+<h1 align="center">Hi 👋, I'm BohanSun</h1>
 <h3 align="center">A Full-Stack Developer</h3>
 
 <p align="center">
@@ -29,6 +29,16 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WebXR-FF69B4?style=for-the-badge&logo=webxr&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AFrame-0062ff?style=for-the-badge&logo=aframe&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-8th_Wall-FF6F61?style=for-the-badge&logo=8thwall&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ARKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Remix-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Truffle-5E3C59?style=for-the-badge&logo=truffle&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ganache-F2A51F?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
 </p>
 
 ---
