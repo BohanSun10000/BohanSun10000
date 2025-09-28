@@ -39,6 +39,12 @@
   <img src="https://img.shields.io/badge/-Truffle-5E3C59?style=for-the-badge&logo=truffle&logoColor=white" />
   <img src="https://img.shields.io/badge/-Ganache-F2A51F?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rainbow-FF0083?style=for-the-badge&logo=rainbow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Filecoin-0090FF?style=for-the-badge&logo=filecoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pinata-000000?style=for-the-badge&logo=pinata&logoColor=yellow" />
 </p>
 
 ---
