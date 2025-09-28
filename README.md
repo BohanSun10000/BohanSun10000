@@ -1,8 +1,8 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Theodore-labs&label=Profile%20views&color=0e75b6&style=flat" alt="Theodore-labs" />
+  <img src="https://komarev.com/ghpvc/?username=IsabelleZhou1113&label=Profile%20views&color=0e75b6&style=flat" alt="IsabelleZhou1113" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Theodore</h1>
+<h1 align="center">Hi 👋, I'm Isabelle</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="center">
@@ -36,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Theodore-labs&show_icons=true&theme=radical" alt="Theodore-labs's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Theodore-labs&theme=radical&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IsabelleZhou1113&show_icons=true&theme=radical" alt="Theodore-labs's GitHub stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IsabelleZhou1113&theme=radical&hide_border=true" width="400"/>
 </p>
 
 ---
@@ -46,10 +46,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Theodore-labs&repo=TaskFlow&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsabelleZhou1113&repo=TaskFlow&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Theodore-labs&repo=TaskNest&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsabelleZhou1113&repo=TaskNest&theme=buefy" />
 </a>
 
 ---
