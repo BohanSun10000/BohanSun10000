@@ -52,21 +52,35 @@
 
 #### Top Repositories
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsabelleZhou1113&repo=TaskFlow&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsabelleZhou1113&repo=TaskNest&theme=buefy" />
-</a>
+<p align="left">
+  <a href="https://github.com/BohanSun10000/Bitotem-VisionOS">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BohanSun10000&repo=Bitotem-VisionOS&theme=buefy&hide_border=true" />
+  </a>
+  <a href="https://github.com/BohanSun10000/Nlink-Visionos-test">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BohanSun10000&repo=Nlink-Visionos-test&theme=buefy&hide_border=true" />
+  </a>
+</p>
 
 ---
 
 ### ☕ Let's Connect
 
 <p align="left">
-  <a href="https://github.com/Theodore-labs" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <!-- GitHub（可改成你的用户名） -->
+  <a href="https://github.com/BohanSun10000" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- X / Twitter -->
+  <a href="https://x.com/sbh_studio" target="_blank" rel="noopener noreferrer">
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/bohansun" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/sbhstudio" target="_blank" rel="noopener noreferrer">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
